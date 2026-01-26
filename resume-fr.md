@@ -9,3 +9,34 @@ Je suis Principal Platform Engineer avec plus de 20 ans d'expérience — du dé
 Aujourd'hui, je pilote les efforts de Cloud Engineering, en prenant en charge le FinOps, le SRE et le Platform Engineering pour optimiser les coûts cloud, améliorer la stabilité en production et la vélocité des développeurs.
 
 Tout au long de ma carrière, j'ai considéré l'écriture technique comme une discipline d'ingénierie à part entière — des ADRs et runbooks aux spécifications qui font le lien entre l'intention métier et l'exécution technique. A mesure que l'ingénierie évolue vers des workflows orientés agents, ces compétences me semblent de plus en plus centrales : la précision, la structure et le contexte sont ce qui rend efficaces aussi bien les humains que les agents IA.
+
+## Expérience
+
+### DataGalaxy | Lyon, France
+
+**Principal Cloud & Run Engineer** (2023/07 – Présent) | **Software Architect** (2020/01 – 2023/07)<br>
+Télétravail 100% · Anglais
+
+### Veolia Connected Solutions | Lyon, France
+
+**Software Architect** (2015/11 – 2020/01)
+
+### Exakis Nelite | Lyon, France
+
+**Technical Lead** (2012/06 – 2015/09) | **Senior Software Engineer** (2011/01 – 2012/06)
+
+### Intitek Hinnoya | Lyon, France
+
+**Software Consultant** (2009/05 – 2010/12)
+
+### Clever Age | Lyon, France
+
+**Software Consultant** (2008/12 – 2009/04)
+
+### SQLI | Lyon, France
+
+**Software Engineer** (2007/09 – 2008/11)
+
+### Visiativ | Charbonnières-les-Bains, France
+
+**Software Engineer** (2004/02 – 2007/08)
