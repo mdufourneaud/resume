@@ -43,6 +43,17 @@ Tout au long de ma carrière, j'ai considéré l'écriture technique comme une d
 **Principal Cloud & Run Engineer** (2023/07 – Présent) | **Software Architect** (2020/01 – 2023/07)<br>
 Télétravail 100% · Anglais
 
+Je définis et pilote la stratégie cloud engineering de DataGalaxy dans un environnement multi-fournisseurs (AWS, Azure, GCP, OVH et on-premises). Je prends en charge les efforts FinOps, SRE et Platform Engineering — en étant responsable des outils, des pratiques et des décisions d'architecture qui garantissent la fiabilité de la production, la maîtrise des coûts et la vélocité des développeurs.
+
+- **Modernisation de l'infrastructure** — Migration de moins de 10 VMs Windows opérées manuellement vers 100+ clusters Kubernetes, entièrement gérés via IaC (Cluster API → OpenTofu) sur l'ensemble de leur cycle de vie : provisioning, configuration, mises à jour et teardown.
+- **Transformation CI/CD** — Remplacement des artefacts de build Windows par des images Docker et des Helm charts, construits automatiquement via des pipelines CI (Azure DevOps) et délivrés par GitOps (FluxCD) — supprimant les opérations de release manuelles pour toute l'équipe engineering.
+- **Provisioning des tenants** — Automatisation du provisioning complet des tenants via GitOps et IaC, réduisant le lead time de plusieurs heures à quelques minutes — supportant aussi bien l'onboarding client que les workflows de développement, à raison de dizaines de tenants créés et supprimés par mois.
+- **Observabilité** — Remplacement de l'analyse de logs par VM par une centralisation des logs, métriques et traces dans Grafana, permettant des alertes proactives sur l'ensemble de la plateforme.
+- **FinOps** — Réduction significative des coûts d'infrastructure grâce à des optimisations des disques et de la topologie des nœuds Kubernetes — sans compromis sur la fiabilité ni les performances.
+- **Gestion des incidents** — Remplacement d'une réponse aux incidents ad hoc et auto-organisée (alertes Slack, sans ownership) par une pratique structurée : rôles définis, canaux de communication dédiés, runbooks d'alerte et procédures de remédiation documentées, pilotés par incident.io.
+- **Sécurité des accès production** — Remplacement des accès cluster ouverts et permanents par un plugin kubectl personnalisé (Go) appliquant le principe de moindre privilège, avec des accès limités dans le temps et entièrement audités sur les clusters de production et de développement — déployé sur toute l'équipe engineering.
+- **Cloud-native enablement** — Animation d'un Cloud Office Hours hebdomadaire ouvert à tous les ingénieurs, complété par des sessions pratiques sur les bases des conteneurs, Kubernetes, l'autoscaling et le serverless — développant la culture cloud-native et l'autonomie au sein de l'organisation engineering.
+
 ### Veolia Connected Solutions | Lyon, France
 
 **Software Architect** (2015/11 – 2020/01)

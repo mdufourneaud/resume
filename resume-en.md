@@ -43,6 +43,17 @@ Throughout my career, I've invested in technical writing as a core engineering d
 **Principal Cloud & Run Engineer** (2023/07 – Present) | **Software Architect** (2020/01 – 2023/07)<br>
 Full Remote · English
 
+I define and execute DataGalaxy's cloud engineering strategy across a multi-provider environment (AWS, Azure, GCP, OVH and on-premises). I lead FinOps, SRE and Platform Engineering efforts — owning the tools, practices and architectural decisions that keep production reliable, costs under control and developers moving fast.
+
+- **Infrastructure modernization** — Migrated from <10 manually operated Windows VMs to 100+ Kubernetes clusters, fully managed through IaC (Cluster API → OpenTofu) across their entire lifecycle: provisioning, configuration, upgrades and teardown.
+- **CI/CD transformation** — Replaced Windows-bound build artifacts with Docker images and Helm charts, automatically built through CI pipelines (Azure DevOps) and delivered via GitOps (FluxCD) — eliminating manual release toil across the engineering team.
+- **Tenant provisioning** — Automated full tenant provisioning via GitOps and IaC, reducing lead time from several hours to minutes — supporting both customer onboarding and feature development workflows at a pace of tens of tenants created and deleted per month.
+- **Observability** — Replaced per-VM log analysis with centralized logs, metrics and traces in Grafana, enabling proactive alerting across the entire platform.
+- **FinOps** — Significantly reduced infrastructure costs through Kubernetes node disk and topology optimizations — without compromising reliability or performance.
+- **Incident management** — Replaced ad-hoc, self-organized incident response (Slack alerts, no ownership) with a structured practice: defined roles, dedicated communication channels, alerting runbooks and documented remediation procedures, powered by incident.io.
+- **Production access security** — Replaced open, permanent cluster access with a custom kubectl plugin (Go) enforcing least-privilege, time-limited and fully audited access to production and development clusters — rolled out across the entire engineering team.
+- **Cloud-native enablement** — Ran a weekly Cloud Office Hours open to all engineers, complemented by hands-on sessions on container basics, Kubernetes, autoscaling and serverless — building cloud-native culture and autonomy across the engineering organization.
+
 ### Veolia Connected Solutions | Lyon, France
 
 **Software Architect** (2015/11 – 2020/01)
