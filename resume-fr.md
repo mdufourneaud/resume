@@ -40,3 +40,17 @@ Télétravail 100% · Anglais
 ### Visiativ | Charbonnières-les-Bains, France
 
 **Software Engineer** (2004/02 – 2007/08)
+
+## Projets personnels
+
+### Helmeleon
+
+Un chart Helm qui génère des manifests déployables à partir de templates fournis en valeurs — sans avoir à écrire de templates from scratch.
+
+[GitHub – mdufourneaud/helmeleon](https://github.com/mdufourneaud/helmeleon)
+
+### KopyK8s *(prononcé "copycats")*
+
+Un opérateur Kubernetes (Go) qui crée et maintient des copies de ressources synchronisées entre namespaces ou clusters — utile pour propager des Secrets, ConfigMaps ou n'importe quelle ressource dans des contextes multi-tenant.
+
+[GitHub – mdufourneaud/kopyk8s](https://github.com/mdufourneaud/kopyk8s)
