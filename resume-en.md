@@ -54,3 +54,8 @@ A Helm chart that renders templates provided as values into deployable manifests
 A Kubernetes operator (Go) that creates and keeps copies of resources synchronized across namespaces or clusters — useful for propagating Secrets, ConfigMaps or any resources in multi-tenant contexts.
 
 [GitHub – mdufourneaud/kopyk8s](https://github.com/mdufourneaud/kopyk8s)
+
+## Interests & Values
+
+Naturally curious — equally drawn to the burial of Pompeii and the mysteries of particle physics. I travel to discover other cultures, languages and ways of living — by night train where I can, one expression of a commitment to fighting climate change.<br>
+I believe in written communication: it forces clarity, creates shared context and outlasts the conversation. I thrive in teams that learn from failure without blame — blameless post-mortems over finger-pointing, systems thinking over scapegoating.
