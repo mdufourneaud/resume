@@ -10,6 +10,32 @@ Aujourd'hui, je pilote les efforts de Cloud Engineering, en prenant en charge le
 
 Tout au long de ma carrière, j'ai considéré l'écriture technique comme une discipline d'ingénierie à part entière — des ADRs et runbooks aux spécifications qui font le lien entre l'intention métier et l'exécution technique. A mesure que l'ingénierie évolue vers des workflows orientés agents, ces compétences me semblent de plus en plus centrales : la précision, la structure et le contexte sont ce qui rend efficaces aussi bien les humains que les agents IA.
 
+## Compétences
+
+**Cloud & Infrastructure** — Fournisseurs : AWS, Azure, GCP, OVH, on-premises · Conteneurs : Kubernetes, Helm, Kustomize, cert-manager, KEDA, Karpenter, Docker · Réseau : Azure API Gateway, NGINX, Kong
+
+**Platform Engineering** — IaC : Cluster API, OpenTofu/Terraform · GitOps : FluxCD · CI/CD : Azure DevOps · Sécurité : Trivy
+
+**Concepts** — SRE · FinOps · Architecture cloud · DDD · CQRS · Event-Driven Architecture · REST · SOLID · Clean Code · ORM · Refactoring · PoEAA · Test-First
+
+**Leadership & Culture** — Leadership technique · Management d'équipe · Enseignement & mentorat · Ownership & management produit · Rédaction technique · Facilitation : brainstorming, mind mapping, post-mortems · Culture DevOps · Culture Agile · Avant-vente technique · Prise de parole en public
+
+**Observabilité** — OpenTelemetry · Prometheus · Grafana
+
+**Messaging** — Azure Event Hubs · Azure Service Bus · GCP Pub/Sub · RabbitMQ
+
+**Serverless** — Azure Functions · Azure Container Apps · GCP Cloud Run
+
+**Langages** — .NET : C#, F# · Go · Shell : Bash, PowerShell · JavaScript/TypeScript · SQL · Python
+
+**Données** — Relationnel : PostgreSQL · SQL Server · NoSQL : Elasticsearch · CosmosDB · Objet : Azure Storage
+
+**Collaboration & Outils** — Jira · Confluence · Notion · Miro
+
+**IoT** — Protocoles : Sigfox, LoRaWAN · Plateformes : Azure IoT Hub
+
+**Exploration** — Agentic coding · Clean Architecture · Rust · GraphQL
+
 ## Expérience
 
 ### DataGalaxy | Lyon, France

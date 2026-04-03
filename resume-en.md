@@ -10,6 +10,32 @@ Today I lead Cloud Engineering efforts, owning FinOps, SRE and Platform Engineer
 
 Throughout my career, I've invested in technical writing as a core engineering discipline — from ADRs and runbooks to specs that bridge business intent and technical execution. As engineering shifts toward agent-first workflows, I find these skills increasingly central: precision, structure and context are what make both humans and AI agents effective.
 
+## Skills
+
+**Cloud & Infrastructure** — Providers: AWS, Azure, GCP, OVH, on-premises · Containers: Kubernetes, Helm, Kustomize, cert-manager, KEDA, Karpenter, Docker · Networking: Azure API Gateway, NGINX, Kong
+
+**Platform Engineering** — IaC: Cluster API, OpenTofu/Terraform · GitOps: FluxCD · CI/CD: Azure DevOps · Security: Trivy
+
+**Concepts** — SRE · FinOps · Cloud Architecture · DDD · CQRS · Event-Driven Architecture · REST · SOLID · Clean Code · ORM · Refactoring · PoEAA · Test-First
+
+**Leadership & Culture** — Technical leadership · People leadership · Teaching & mentorship · Product ownership & management · Technical writing · Facilitation: brainstorming, mind mapping, post-mortems · DevOps culture · Agile culture · Pre-sales engineering · Public speaking
+
+**Observability** — OpenTelemetry · Prometheus · Grafana
+
+**Messaging** — Azure Event Hubs · Azure Service Bus · GCP Pub/Sub · RabbitMQ
+
+**Serverless** — Azure Functions · Azure Container Apps · GCP Cloud Run
+
+**Languages** — .NET: C#, F# · Go · Shell: Bash, PowerShell · JavaScript/TypeScript · SQL · Python
+
+**Data** — Relational: PostgreSQL · SQL Server · NoSQL: Elasticsearch · CosmosDB · Object: Azure Storage
+
+**Collaboration & Tooling** — Jira · Confluence · Notion · Miro
+
+**IoT** — Protocols: Sigfox, LoRaWAN · Platforms: Azure IoT Hub
+
+**Exploring** — Agentic coding · Clean Architecture · Rust · GraphQL
+
 ## Experience
 
 ### DataGalaxy | Lyon, France
