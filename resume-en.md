@@ -67,6 +67,8 @@ Full Remote · English
 
 **Software Engineer** (2004/02 – 2007/08)
 
+Developed .NET desktop and web applications extending SmarTeam (PLM) and SolidWorks (CAD) via COM APIs to fulfill industrial customer needs.
+
 ## Side Projects
 
 ### Helmeleon

@@ -67,6 +67,8 @@ Télétravail 100% · Anglais
 
 **Software Engineer** (2004/02 – 2007/08)
 
+Développement d'applications desktop et web .NET étendant SmarTeam (PLM) et SolidWorks (CAD) via leurs APIs COM pour répondre aux besoins de clients industriels.
+
 ## Projets personnels
 
 ### Helmeleon
