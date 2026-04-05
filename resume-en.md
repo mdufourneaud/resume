@@ -81,6 +81,10 @@ A Kubernetes operator (Go) that creates and keeps copies of resources synchroniz
 
 [GitHub – mdufourneaud/kopyk8s](https://github.com/mdufourneaud/kopyk8s)
 
+## Education
+
+**Master's degree in Imaging, Vision & Robotics** — Grenoble INP (Institut National Polytechnique de Grenoble)
+
 ## Interests & Values
 
 Naturally curious — equally drawn to the burial of Pompeii and the mysteries of particle physics. I travel to discover other cultures, languages and ways of living — by night train where I can, one expression of a commitment to fighting climate change.<br>

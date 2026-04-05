@@ -81,6 +81,10 @@ Un opérateur Kubernetes (Go) qui crée et maintient des copies de ressources sy
 
 [GitHub – mdufourneaud/kopyk8s](https://github.com/mdufourneaud/kopyk8s)
 
+## Formation
+
+**DEA (grade de master) Imagerie, Vision, Robotique** — Grenoble INP (Institut National Polytechnique de Grenoble)
+
 ## Centres d'intérêt & Valeurs
 
 Curieux de nature — aussi bien attiré par l'ensevelissement de Pompéi que par les mystères de la physique des particules. Je voyage pour découvrir d'autres cultures, langues et façons de vivre — en train de nuit quand je le peux, expression d'un engagement dans la lutte contre le changement climatique.<br>
