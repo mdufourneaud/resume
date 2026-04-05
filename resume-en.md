@@ -77,29 +77,9 @@ Led technical pre-sales, winning multiple projects then owning them end-to-end t
 - **Field technician desktop app** — WPF/MVVM application with real-time geolocation via Reactive Extensions and Bluetooth serial communication with handheld IoT devices.
 - **Field technician mobile app** — Xamarin.Forms/MVVM Android application communicating with handheld IoT devices via Bluetooth serial.
 
-### Intitek Hinnoya | Lyon, France
+### Early Career (2004–2010)
 
-**Software Consultant** (2009/05 – 2010/12)
-
-On mission at APRIL Assurances: contributed to designing and implementing a reusable ASP.NET Model-View-Presenter framework hosted in DotNetNuke, applied across multiple web applications.
-
-### Clever Age | Lyon, France
-
-**Software Consultant** (2008/12 – 2009/04)
-
-Delivered .NET training and production CMS upgrades (DotNetNuke) as a consultant on short-term expertise missions.
-
-### SQLI | Lyon, France
-
-**Software Engineer** (2007/09 – 2008/11)
-
-Developed .NET desktop applications using NHibernate (ORM) over SQL Server and Oracle, and designed a reusable Mono-based TUI framework for handheld barcode scanner terminals — enabling structured navigation, text input and multi-choice screens.
-
-### Visiativ | Charbonnières-les-Bains, France
-
-**Software Engineer** (2004/02 – 2007/08)
-
-Developed .NET desktop and web applications extending SmarTeam (PLM) and SolidWorks (CAD) via COM APIs to fulfill industrial customer needs.
+.NET software engineering across ISV (Visiativ) and IT services firms (SQLI, Clever Age and Intitek Hinnoya) — building desktop, web and handheld applications for industrial and insurance clients, including a reusable Mono-based TUI framework for handheld barcode scanner terminals, and CAD/PLM integrations via COM APIs (SolidWorks, SmarTeam).
 
 ## Side Projects
 

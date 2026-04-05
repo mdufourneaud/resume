@@ -77,29 +77,9 @@ Avant-vente technique, avec ownership complet des projets remportés : conceptio
 - **Application desktop technicien terrain** — Application WPF/MVVM avec géolocalisation temps réel via Reactive Extensions et communication série Bluetooth avec des appareils IoT portables.
 - **Application mobile technicien terrain** — Application Xamarin.Forms/MVVM Android communicant avec des appareils IoT portables via série Bluetooth.
 
-### Intitek Hinnoya | Lyon, France
+### Début de carrière (2004–2010)
 
-**Software Consultant** (2009/05 – 2010/12)
-
-En mission chez APRIL Assurances : contribution à la conception et l'implémentation d'un framework ASP.NET Model-View-Presenter réutilisable hébergé dans DotNetNuke, appliqué sur plusieurs applications web.
-
-### Clever Age | Lyon, France
-
-**Software Consultant** (2008/12 – 2009/04)
-
-Missions d'expertise courtes en tant que consultant : formations .NET et mises à jour de CMS en production (DotNetNuke).
-
-### SQLI | Lyon, France
-
-**Software Engineer** (2007/09 – 2008/11)
-
-Développement d'applications desktop .NET avec NHibernate (ORM) sur SQL Server et Oracle, et conception d'un framework TUI réutilisable en Mono pour terminaux de scan codes-barres portables — offrant navigation structurée, saisie de texte et écrans multi-choix.
-
-### Visiativ | Charbonnières-les-Bains, France
-
-**Software Engineer** (2004/02 – 2007/08)
-
-Développement d'applications desktop et web .NET étendant SmarTeam (PLM) et SolidWorks (CAD) via leurs APIs COM pour répondre aux besoins de clients industriels.
+Développement logiciel .NET au sein d'un intégrateur (Visiativ) et des ESNs (SQLI, Clever Age et Intitek Hinnoya) — applications desktop, web et handheld pour des clients industriels et dans le secteur de l'assurance, incluant un framework TUI réutilisable en Mono pour terminaux de scan codes-barres portables, et des intégrations CAD/PLM via APIs COM (SolidWorks, SmarTeam).
 
 ## Projets personnels
 
