@@ -55,6 +55,8 @@ Télétravail 100% · Anglais
 
 **Software Consultant** (2009/05 – 2010/12)
 
+En mission chez APRIL Assurances : contribution à la conception et l'implémentation d'un framework ASP.NET Model-View-Presenter réutilisable hébergé dans DotNetNuke, appliqué sur plusieurs applications web.
+
 ### Clever Age | Lyon, France
 
 **Software Consultant** (2008/12 – 2009/04)
