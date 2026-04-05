@@ -59,6 +59,8 @@ Full Remote · English
 
 **Software Consultant** (2008/12 – 2009/04)
 
+Delivered .NET training and production CMS upgrades (DotNetNuke) as a consultant on short-term expertise missions.
+
 ### SQLI | Lyon, France
 
 **Software Engineer** (2007/09 – 2008/11)

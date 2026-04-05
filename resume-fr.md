@@ -59,6 +59,8 @@ Télétravail 100% · Anglais
 
 **Software Consultant** (2008/12 – 2009/04)
 
+Missions d'expertise courtes en tant que consultant : formations .NET et mises à jour de CMS en production (DotNetNuke).
+
 ### SQLI | Lyon, France
 
 **Software Engineer** (2007/09 – 2008/11)
