@@ -51,6 +51,14 @@ Full Remote · English
 
 **Technical Lead** (2012/06 – 2015/09) | **Senior Software Engineer** (2011/01 – 2012/06)
 
+Led technical pre-sales, winning multiple projects then owning them end-to-end through design, implementation and production — applying DDD and CQRS across the delivered applications. Delivered expertise missions for clients. Mentored and coached up to 4 interns and junior engineers.
+
+- **Adecco France (mission)** — WPF/MVVM expertise on a client-server desktop application backed by Oracle, including a memory leak investigation: uncollected View/ViewModel references identified via memory profiling and resolved with WeakReferences.
+- **Animal drug pricing** — WPF/MVVM desktop application with NHibernate and LINQ, leveraging parallel computing (own design) to handle intensive price calculation workloads.
+- **Telemetering web app** — ASP.NET Single-Page Application with TypeScript, Knockout.js (MVVM) and NHibernate, for a water metering operator.
+- **Field technician desktop app** — WPF/MVVM application with real-time geolocation via Reactive Extensions and Bluetooth serial communication with handheld IoT devices.
+- **Field technician mobile app** — Xamarin.Forms/MVVM Android application communicating with handheld IoT devices via Bluetooth serial.
+
 ### Intitek Hinnoya | Lyon, France
 
 **Software Consultant** (2009/05 – 2010/12)

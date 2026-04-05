@@ -51,6 +51,14 @@ Télétravail 100% · Anglais
 
 **Technical Lead** (2012/06 – 2015/09) | **Senior Software Engineer** (2011/01 – 2012/06)
 
+Avant-vente technique, avec ownership complet des projets remportés : conception, implémentation et suivi jusqu'en production — en appliquant DDD et CQRS sur l'ensemble des applications livrées. Missions d'expertise chez des clients. Mentorat et accompagnement de jusqu'à 4 stagiaires et ingénieurs juniors.
+
+- **Adecco France (mission)** — Expertise WPF/MVVM sur une application desktop client-serveur sous Oracle, incluant une investigation de fuite mémoire : références View/ViewModel non collectées identifiées par profilage mémoire et résolues avec des WeakReferences.
+- **Tarification de médicaments vétérinaires** — Application desktop WPF/MVVM avec NHibernate et LINQ, exploitant le calcul parallèle massif (conception propre) pour gérer des charges de calcul intensives.
+- **Application web de télé-relevé** — Single-Page Application ASP.NET avec TypeScript, Knockout.js (MVVM) et NHibernate, pour un opérateur de compteurs d'eau.
+- **Application desktop technicien terrain** — Application WPF/MVVM avec géolocalisation temps réel via Reactive Extensions et communication série Bluetooth avec des appareils IoT portables.
+- **Application mobile technicien terrain** — Application Xamarin.Forms/MVVM Android communicant avec des appareils IoT portables via série Bluetooth.
+
 ### Intitek Hinnoya | Lyon, France
 
 **Software Consultant** (2009/05 – 2010/12)
