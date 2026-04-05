@@ -47,6 +47,13 @@ Télétravail 100% · Anglais
 
 **Software Architect** (2015/11 – 2020/01)
 
+Rejoint Birdz en tant qu'expert cloud pour piloter la conception et l'implémentation de pipelines de traitement de données de compteurs d'eau et développer la pratique cloud engineering.
+
+- **Pipeline Azure (v0)** — Conception et implémentation d'un pipeline de traitement de compteurs d'eau (identification, décodage, calcul, stockage) avec Azure Functions, Azure Event Hubs et CosmosDB.
+- **Pipeline GCP (v1)** — Migration vers GCP GKE (Kubernetes) et Pub/Sub avec des microservices dédiés par étape de traitement — motivée par des problèmes de prévisibilité des coûts du serverless.
+- **Gestion des identifiants LoRaWAN** — Product Owner d'un service serverless GCP Cloud Run gérant les identifiants LoRaWAN pour des compteurs d'eau IoT, initié à partir de besoins utilisateurs internes.
+- **Management** — Recrutement et management d'un ingénieur logiciel junior.
+
 ### Exakis Nelite | Lyon, France
 
 **Technical Lead** (2012/06 – 2015/09) | **Senior Software Engineer** (2011/01 – 2012/06)

@@ -47,6 +47,13 @@ Full Remote · English
 
 **Software Architect** (2015/11 – 2020/01)
 
+Joined Birdz as a cloud expert to lead the design and implementation of water meter data pipelines and expand the cloud engineering practice.
+
+- **Azure pipeline (v0)** — Designed and implemented a water meter processing pipeline (identification, decoding, calculation, storage) using Azure Functions, Azure Event Hubs and CosmosDB.
+- **GCP pipeline (v1)** — Migrated to GCP GKE (Kubernetes) and Pub/Sub with dedicated microservices per processing stage — driven by cost predictability concerns over serverless.
+- **LoRaWAN identifier management** — Acted as Product Owner for a serverless GCP Cloud Run service managing LoRaWAN identifiers for IoT water meters, initiated from internal user needs.
+- **Engineering management** — Recruited and managed a junior software engineer.
+
 ### Exakis Nelite | Lyon, France
 
 **Technical Lead** (2012/06 – 2015/09) | **Senior Software Engineer** (2011/01 – 2012/06)
