@@ -63,6 +63,8 @@ Full Remote · English
 
 **Software Engineer** (2007/09 – 2008/11)
 
+Developed .NET desktop applications using NHibernate (ORM) over SQL Server and Oracle, and designed a reusable Mono-based TUI framework for handheld barcode scanner terminals — enabling structured navigation, text input and multi-choice screens.
+
 ### Visiativ | Charbonnières-les-Bains, France
 
 **Software Engineer** (2004/02 – 2007/08)

@@ -63,6 +63,8 @@ Télétravail 100% · Anglais
 
 **Software Engineer** (2007/09 – 2008/11)
 
+Développement d'applications desktop .NET avec NHibernate (ORM) sur SQL Server et Oracle, et conception d'un framework TUI réutilisable en Mono pour terminaux de scan codes-barres portables — offrant navigation structurée, saisie de texte et écrans multi-choix.
+
 ### Visiativ | Charbonnières-les-Bains, France
 
 **Software Engineer** (2004/02 – 2007/08)
