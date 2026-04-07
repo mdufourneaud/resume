@@ -1,0 +1,105 @@
+# Matthieu DUFOURNEAUD / Principal Platform Engineer
+
+📍 Lyon, France | ☎️ *Ask me* | 📧 *Ask me* | [GitHub](https://github.com/mdufourneaud) | [LinkedIn](https://www.linkedin.com/in/matthieu-dufourneaud-a2195030)
+
+## Résumé
+
+Je suis Principal Platform Engineer avec plus de 20 ans d'expérience — du développement full-stack (embarqué, desktop, mobile et web) à l'architecture de plateformes multi-cloud sur AWS, Azure, GCP, OVH et on-premises. Un principe constant : définir le vrai problème, puis choisir la solution adaptée au contexte — pas toujours technique.
+
+Aujourd'hui, je pilote les efforts de Cloud Engineering, en prenant en charge le FinOps, le SRE et le Platform Engineering pour optimiser les coûts cloud, améliorer la stabilité en production et la vélocité des développeurs.
+
+Tout au long de ma carrière, j'ai considéré l'écriture technique comme une discipline d'ingénierie à part entière — des ADRs et runbooks aux spécifications qui font le lien entre l'intention métier et l'exécution technique. A mesure que l'ingénierie évolue vers des workflows orientés agents, ces compétences me semblent de plus en plus centrales : la précision, la structure et le contexte sont ce qui rend efficaces aussi bien les humains que les agents IA.
+
+## Compétences
+
+**Cloud & Infrastructure** — Fournisseurs : AWS, Azure, GCP, OVH, on-premises · Conteneurs : Kubernetes, Helm, Kustomize, cert-manager, KEDA, Karpenter, Docker · Réseau : Azure API Gateway, NGINX, Kong
+
+**Platform Engineering** — IaC : Cluster API, OpenTofu/Terraform · GitOps : FluxCD · CI/CD : Azure DevOps · Sécurité : Trivy
+
+**Concepts** — SRE · FinOps · Architecture cloud · DDD · CQRS · Event-Driven Architecture · REST · SOLID · Clean Code · ORM · Refactoring · PoEAA · Test-First
+
+**Leadership & Culture** — Leadership technique · Management d'équipe · Enseignement & mentorat · Ownership & management produit · Rédaction technique · Facilitation : brainstorming, mind mapping, post-mortems · Culture DevOps · Culture Agile · Avant-vente technique · Prise de parole en public
+
+**Observabilité** — OpenTelemetry · Prometheus · Grafana
+
+**Messaging** — Azure Event Hubs · Azure Service Bus · GCP Pub/Sub · RabbitMQ
+
+**Serverless** — Azure Functions · Azure Container Apps · GCP Cloud Run
+
+**Langages** — .NET : C#, F# · Go · Shell : Bash, PowerShell · JavaScript/TypeScript · SQL · Python
+
+**Données** — Relationnel : PostgreSQL · SQL Server · NoSQL : Elasticsearch · CosmosDB · Objet : Azure Storage
+
+**Collaboration & Outils** — Jira · Confluence · Notion · Miro
+
+**IoT** — Protocoles : Sigfox, LoRaWAN · Plateformes : Azure IoT Hub
+
+**Exploration** — Agentic coding · Clean Architecture · Rust · GraphQL
+
+## Expérience
+
+### DataGalaxy | Lyon, France
+
+**Principal Cloud & Run Engineer** (2023/07 – Présent) | **Software Architect** (2020/01 – 2023/07)<br>
+Télétravail 100% · Anglais
+
+Je définis et pilote la stratégie cloud engineering de DataGalaxy dans un environnement multi-fournisseurs (AWS, Azure, GCP, OVH et on-premises). Je prends en charge les efforts FinOps, SRE et Platform Engineering — en étant responsable des outils, des pratiques et des décisions d'architecture qui garantissent la fiabilité de la production, la maîtrise des coûts et la vélocité des développeurs.
+
+- **Modernisation de l'infrastructure** — Migration de moins de 10 VMs Windows opérées manuellement vers 100+ clusters Kubernetes, entièrement gérés via IaC (Cluster API → OpenTofu) sur l'ensemble de leur cycle de vie : provisioning, configuration, mises à jour et teardown.
+- **Transformation CI/CD** — Remplacement des artefacts de build Windows par des images Docker et des Helm charts, construits automatiquement via des pipelines CI (Azure DevOps) et délivrés par GitOps (FluxCD) — supprimant les opérations de release manuelles pour toute l'équipe engineering.
+- **Provisioning des tenants** — Automatisation du provisioning complet des tenants via GitOps et IaC, réduisant le lead time de plusieurs heures à quelques minutes — supportant aussi bien l'onboarding client que les workflows de développement, à raison de dizaines de tenants créés et supprimés par mois.
+- **Observabilité** — Remplacement de l'analyse de logs par VM par une centralisation des logs, métriques et traces dans Grafana, permettant des alertes proactives sur l'ensemble de la plateforme.
+- **FinOps** — Réduction significative des coûts d'infrastructure grâce à des optimisations des disques et de la topologie des nœuds Kubernetes — sans compromis sur la fiabilité ni les performances.
+- **Gestion des incidents** — Remplacement d'une réponse aux incidents ad hoc et auto-organisée (alertes Slack, sans ownership) par une pratique structurée : rôles définis, canaux de communication dédiés, runbooks d'alerte et procédures de remédiation documentées, pilotés par incident.io.
+- **Sécurité des accès production** — Remplacement des accès cluster ouverts et permanents par un plugin kubectl personnalisé (Go) appliquant le principe de moindre privilège, avec des accès limités dans le temps et entièrement audités sur les clusters de production et de développement — déployé sur toute l'équipe engineering.
+- **Cloud-native enablement** — Animation d'un Cloud Office Hours hebdomadaire ouvert à tous les ingénieurs, complété par des sessions pratiques sur les bases des conteneurs, Kubernetes, l'autoscaling et le serverless — développant la culture cloud-native et l'autonomie au sein de l'organisation engineering.
+
+### Veolia Connected Solutions | Lyon, France
+
+**Software Architect** (2015/11 – 2020/01)
+
+Rejoint Birdz en tant qu'expert cloud pour piloter la conception et l'implémentation de pipelines de traitement de données de compteurs d'eau et développer la pratique cloud engineering.
+
+- **Pipeline Azure (v0)** — Conception et implémentation d'un pipeline de traitement de compteurs d'eau (identification, décodage, calcul, stockage) avec Azure Functions, Azure Event Hubs et CosmosDB.
+- **Pipeline GCP (v1)** — Migration vers GCP GKE (Kubernetes) et Pub/Sub avec des microservices dédiés par étape de traitement — motivée par des problèmes de prévisibilité des coûts du serverless.
+- **Gestion des identifiants LoRaWAN** — Product Owner d'un service serverless GCP Cloud Run gérant les identifiants LoRaWAN pour des compteurs d'eau IoT, initié à partir de besoins utilisateurs internes.
+- **Management** — Recrutement et management d'un ingénieur logiciel junior.
+
+### Exakis Nelite | Lyon, France
+
+**Technical Lead** (2012/06 – 2015/09) | **Senior Software Engineer** (2011/01 – 2012/06)
+
+Avant-vente technique, avec ownership complet des projets remportés : conception, implémentation et suivi jusqu'en production — en appliquant DDD et CQRS sur l'ensemble des applications livrées. Missions d'expertise chez des clients. Mentorat et accompagnement de jusqu'à 4 stagiaires et ingénieurs juniors.
+
+- **Adecco France (mission)** — Expertise WPF/MVVM sur une application desktop client-serveur sous Oracle, incluant une investigation de fuite mémoire : références View/ViewModel non collectées identifiées par profilage mémoire et résolues avec des WeakReferences.
+- **Tarification de médicaments vétérinaires** — Application desktop WPF/MVVM avec NHibernate et LINQ, exploitant le calcul parallèle massif (conception propre) pour gérer des charges de calcul intensives.
+- **Application web de télé-relevé** — Single-Page Application ASP.NET avec TypeScript, Knockout.js (MVVM) et NHibernate, pour un opérateur de compteurs d'eau.
+- **Application desktop technicien terrain** — Application WPF/MVVM avec géolocalisation temps réel via Reactive Extensions et communication série Bluetooth avec des appareils IoT portables.
+- **Application mobile technicien terrain** — Application Xamarin.Forms/MVVM Android communicant avec des appareils IoT portables via série Bluetooth.
+
+### Début de carrière (2004–2010)
+
+Développement logiciel .NET au sein d'un intégrateur (Visiativ) et des ESNs (SQLI, Clever Age et Intitek Hinnoya) — applications desktop, web et handheld pour des clients industriels et dans le secteur de l'assurance, incluant un framework TUI réutilisable en Mono pour terminaux de scan codes-barres portables, et des intégrations CAD/PLM via APIs COM (SolidWorks, SmarTeam).
+
+## Projets personnels
+
+### Helmeleon
+
+Un chart Helm qui génère des manifests déployables à partir de templates fournis en valeurs — sans avoir à écrire de templates from scratch.
+
+[GitHub – mdufourneaud/helmeleon](https://github.com/mdufourneaud/helmeleon)
+
+### KopyK8s *(prononcé "copycats")*
+
+Un opérateur Kubernetes (Go) qui crée et maintient des copies de ressources synchronisées entre namespaces ou clusters — utile pour propager des Secrets, ConfigMaps ou n'importe quelle ressource dans des contextes multi-tenant.
+
+[GitHub – mdufourneaud/kopyk8s](https://github.com/mdufourneaud/kopyk8s)
+
+## Formation
+
+**DEA (grade de master) Imagerie, Vision, Robotique** — Grenoble INP (Institut National Polytechnique de Grenoble)
+
+## Centres d'intérêt & Valeurs
+
+Curieux de nature — aussi bien attiré par l'ensevelissement de Pompéi que par les mystères de la physique des particules. Je voyage pour découvrir d'autres cultures, langues et façons de vivre — en train de nuit quand je le peux, expression d'un engagement dans la lutte contre le changement climatique.<br>
+Je crois en la communication écrite : elle force la clarté, crée un contexte partagé et survit à la conversation. Je m'épanouis dans des équipes qui apprennent de leurs échecs sans chercher de coupable — post-mortems blameless plutôt que mise en cause, pensée systémique plutôt que bouc émissaire.
