@@ -26,7 +26,7 @@ Tout au long de ma carrière, j'ai considéré l'écriture technique comme une d
 
 **Serverless** — Azure Functions · Azure Container Apps · GCP Cloud Run
 
-**Langages** — .NET : C#, F# · Go · Shell : Bash, PowerShell · JavaScript/TypeScript · SQL · Python
+**Langages** — .NET : C#, F# · Go · Shell : Bash, PowerShell · JavaScript/TypeScript · SQL · Python · C/C++
 
 **Données** — Relationnel : PostgreSQL · SQL Server · NoSQL : Elasticsearch · CosmosDB · Objet : Azure Storage
 

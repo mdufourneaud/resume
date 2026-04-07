@@ -26,7 +26,7 @@ Throughout my career, I've invested in technical writing as a core engineering d
 
 **Serverless** — Azure Functions · Azure Container Apps · GCP Cloud Run
 
-**Languages** — .NET: C#, F# · Go · Shell: Bash, PowerShell · JavaScript/TypeScript · SQL · Python
+**Languages** — .NET: C#, F# · Go · Shell: Bash, PowerShell · JavaScript/TypeScript · SQL · Python · C/C++
 
 **Data** — Relational: PostgreSQL · SQL Server · NoSQL: Elasticsearch · CosmosDB · Object: Azure Storage
 
