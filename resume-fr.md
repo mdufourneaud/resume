@@ -8,7 +8,7 @@ Je suis Principal Platform Engineer avec plus de 20 ans d'expérience — du dé
 
 Aujourd'hui, je pilote les efforts de Cloud Engineering, en prenant en charge le FinOps, le SRE et le Platform Engineering pour optimiser les coûts cloud, améliorer la stabilité en production et la vélocité des développeurs.
 
-Tout au long de ma carrière, j'ai considéré l'écriture technique comme une discipline d'ingénierie à part entière — des ADRs et runbooks aux spécifications qui font le lien entre l'intention métier et l'exécution technique. A mesure que l'ingénierie évolue vers des workflows orientés agents, ces compétences me semblent de plus en plus centrales : la précision, la structure et le contexte sont ce qui rend efficaces aussi bien les humains que les agents IA.
+Tout au long de ma carrière, j'ai considéré l'écriture technique comme une discipline d'ingénierie à part entière — des RFCs, ADRs et runbooks aux spécifications qui font le lien entre l'intention métier et l'exécution technique. A mesure que l'ingénierie évolue vers des workflows orientés agents, ces compétences me semblent de plus en plus centrales : la précision, la structure et le contexte sont ce qui rend efficaces aussi bien les humains que les agents IA.
 
 ## Compétences
 
@@ -18,7 +18,7 @@ Tout au long de ma carrière, j'ai considéré l'écriture technique comme une d
 
 **Concepts** — SRE · FinOps · Architecture cloud · DDD · CQRS · Event-Driven Architecture · REST · SOLID · Clean Code · ORM · Refactoring · PoEAA · Test-First
 
-**Leadership & Culture** — Leadership technique · Management d'équipe · Enseignement & mentorat · Ownership & management produit · Rédaction technique · Facilitation : brainstorming, mind mapping, post-mortems · Culture DevOps · Culture Agile · Avant-vente technique · Prise de parole en public
+**Leadership & Culture** — Leadership technique · Management d'équipe · Enseignement & mentorat · Ownership & management produit · Rédaction technique (RFCs · ADRs · architecture diagrams · guidelines · pre/post-mortems · runbooks · user stories · DoD) · Facilitation : brainstorming, mind mapping, post-mortems · Culture DevOps · Culture Agile · Avant-vente technique · Prise de parole en public
 
 **Observabilité** — OpenTelemetry · Prometheus · Grafana
 
